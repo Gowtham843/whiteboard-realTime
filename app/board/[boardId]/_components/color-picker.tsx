@@ -71,6 +71,14 @@ export const ColorPicker = ({ onChange }: ColorPickerProps) => {
                     b: 128
                 }}
             />
+            <ColorButton
+                onClick={onChange}
+                color={{
+                    r: 225,
+                    g: 192,
+                    b: 203
+                }}
+            />
 
             {/* Custom Color Button */}
             <ColorButton onClick={onChange} color={customColor} />

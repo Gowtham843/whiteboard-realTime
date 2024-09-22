@@ -130,6 +130,13 @@ We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+
 ---
 
+
 This README provides a clear and structured overview of your project, highlighting the tools and technologies you've used, along with a focus on UI/UX considerations. Adjust the sections as necessary to fit the specific details and requirements of your project.
+
+
+## This project is Hosted in Vercel with login to github,
+## This Project convex is connected to github,
+## This project is used Clerk for login and it is connected to dequeuealternative gmail , i have changed clerk auth code as documentation code was not working
